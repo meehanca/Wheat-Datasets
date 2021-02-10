@@ -1,0 +1,13 @@
+{
+	"n_targets": 133745,
+	"n_bootstraps": 0,
+	"n_processed": 13088699,
+	"n_pseudoaligned": 10937085,
+	"n_unique": 4171698,
+	"p_pseudoaligned": 83.6,
+	"p_unique": 31.9,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Wed Jul  1 19:50:00 2020",
+	"call": "../../../programs/kallisto/kallisto quant -i ../../../reference/index -o ../3_aligned/SRR5464515.fastq.trimmed.txt --single -l 49 -s 0.0758229 -t 64 SRR5464515.fastq.trimmed"
+}

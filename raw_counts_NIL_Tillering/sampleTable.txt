@@ -1,0 +1,13 @@
+filename	condition
+1.abundance.tsv	NIL7B
+2.abundance.tsv	NIL7A
+3.abundance.tsv	NIL7A
+4.abundance.tsv	NIL7A
+5.abundance.tsv	NIL1B
+6.abundance.tsv	NIL1B
+7.abundance.tsv	NIL1B
+8.abundance.tsv	NIL1A
+9.abundance.tsv	NIL7B
+10.abundance.tsv	NIL7B
+11.abundance.tsv	NIL1A
+12.abundance.tsv	NIL1A
